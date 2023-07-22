@@ -57,4 +57,4 @@ Tiene una fecha de caducidad, esto significa que luego de un tiempo determinado 
 ### Que es un correo electronico?
 Es un servicio de red que permite a los usuarios enviar, y recibir mensajes mediante redes de comunicacion electronica
 ### Que es un cliente de correo electronico?
-Es un progrma instalado de forma local en una compotadora que permite acceder a los correos recibidos, asi como enviarlos.
+Es un progroma instalado de forma local en una compotadora que permite acceder a los correos recibidos, asi como enviarlos.

@@ -35,3 +35,7 @@ Usos principales:
 * Evitar la interceptacion de trafico
 * Se utilizan para conexiones seguras en sitios publicos
 * Se usan para anonimizar conexiones mediante proveedores de VPN anonimos
+
+
+## Pueros ngrok
+![](Doc/1.jpg)
