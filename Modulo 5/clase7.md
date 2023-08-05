@@ -33,7 +33,7 @@ Se muestra de forma grafica
 
 * https://www.robtex.com/
 
-![](Pic/1.jpg)
+![](Pic/3.jpg)
 
 El apartado "Shared" tenemos todos los nombre de host que pertenecen a facebook, asi como las dirraciones IP asociadas
 
