@@ -34,6 +34,6 @@ cat resul.txt
 * nmap --script vuln IP (Basico)
 * nmap -p445 IP (ESCANEO DE PUERTOS)
 * nmap -p 1-65535 --script vulners IP (Agresivo)
-* 
+
 
 
