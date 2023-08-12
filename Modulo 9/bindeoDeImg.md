@@ -1,4 +1,19 @@
 # Ataques con ms-Office
+
+### Acultar el Payload atras de una imagen
+
+### Recoleccion del material
+Hay muchas tecnicas que se pueden emplear para ocultar un payload atras de una imagen
+* Winrar es la forma mas comun y sencilla de hacerla 
+
+Los usuariuos son curiosos si se realizo un buen trabajo de ingenieria social, deberia hacer sin probelma que acceda a la imagen 
+
+### Winrar
+Se necesita:
+* Compresor de archivos Winrar
+* La imagen malisiosa
+* ToYcon 
+
 ### ¿Qué es una macro?
 Una macro nos ayuda a automatizar aquellas tareas que hacemos repetidamente. Una macro es una serie de instrucciones que son guardadas dentro de un archivo de Office para poder ser ejecutadas cuando lo necesitemos.
 
@@ -73,17 +88,23 @@ Lo que nos deja ver que el archivo ejecutable está oculto en la fotografía, lo
 * Archivos en formato .jpg
 * Archivos en formato .png
 
+### Paso a paso
+1. Generar el payload 
+2. General el icono contenedor en ToYcon 
+3. Winrar (Dentro de windows en el laboratorio de pruebas)
 
-
-
-
-
-
-
-
-
-
-
+![](Pic/1-1.png)
+![](Pic/2.png)
+![](Pic/3.png)
+![](Pic/4.png)
+![](Pic/5.png)
+![](Pic/6.png)
+![](Pic/7.png)
+![](Pic/8.png)
+![](Pic/9.png)
+![](Pic/10.png)
+![](Pic/11.png)
+![](Pic/12.png)
 
 
 
