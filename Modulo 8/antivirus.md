@@ -9,9 +9,8 @@ La herramienta funciona sobre una línea de comandos (consola) en Kali Linux y o
 
 ![](Pic/1.png)
 
-Dentro de msfvenom podemos listar las diferentes opciones que tenenmos disponibles para trabajar, en este caso haremos énfasis en los encoders y las iteraciones de los payloads.
+Dentro de msfvenom podemos listar las diferentes opciones que tenenmos disponibles para trabajar, **en este caso haremos énfasis en los encoders y las iteraciones de los payloads.**
 
-Dentro de msfvenom podemos listar las diferentes opciones que tenenmos disponibles para trabajar, en este caso haremos énfasis en los encoders y las iteraciones de los payloads.
 
 ![](Pic/2.png)
 
